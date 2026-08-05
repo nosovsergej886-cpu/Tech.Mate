@@ -1,0 +1,6 @@
+{
+  "name": "Tech.Mate",
+  "description": "AI-powered messenger and repair knowledge base for phone repair technicians.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
